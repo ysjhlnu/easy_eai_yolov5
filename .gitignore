@@ -53,6 +53,7 @@ VOC/
 # Neural Network weights -----------------------------------------------------------------------------------------------
 *.weights
 *.pt
+*.bak
 *.onnx
 *.mlmodel
 *.torchscript
